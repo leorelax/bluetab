@@ -1,0 +1,4 @@
+com/example/steps/LoginSteps.class
+com/example/util/OCRUtil.class
+com/example/test/TestRunner.class
+com/example/pages/LoginPage.class

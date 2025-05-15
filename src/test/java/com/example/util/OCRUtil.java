@@ -15,7 +15,6 @@ public class OCRUtil {
 
 
         Tesseract tesseract = new Tesseract();
-        // Asegúrate que esta ruta sea correcta en tu sistema
         tesseract.setDatapath("/opt/homebrew/share/tessdata");
         tesseract.setLanguage("eng");
         try {
